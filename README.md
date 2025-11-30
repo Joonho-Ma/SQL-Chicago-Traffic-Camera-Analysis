@@ -47,4 +47,4 @@ The program provides 9 types of command
 Particularly, command 6,7,8 provides plotting options through python and command 9 provides plots on a map.
 
 # Image
-![Chicago Traffic Camera Analysis](bandicam 2025-10-04 17-02-10-397.jpg)
+![Chicago Traffic Camera Analysis](command9_result.jpg)
