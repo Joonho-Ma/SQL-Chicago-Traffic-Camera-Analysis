@@ -4,33 +4,33 @@ Console-operated program to analyze Chicago's Traffic Cameras
 The program is implemented using 'chicago-traffic-cameras' database
 
 # Database structure
-Intersections  
-Intersection_ID  
-Intersection  
+- Intersections  
+- Intersection_ID  
+- Intersection  
 
 # RedCameras
-Camera_ID
-Intersection_ID  
-Address  
-Latitude  
-Longitude  
+- Camera_ID
+- Intersection_ID  
+- Address  
+- Latitude  
+- Longitude  
 
 # SpeedCameras
-Camera_ID  
-Intersection_ID  
-Address  
-Latitude  
-Longitude  
+- Camera_ID  
+- Intersection_ID  
+- Address  
+- Latitude  
+- Longitude  
 
 # RedViolations
-Camera_ID  
-Violation_Date  
-Num_Violations  
+- Camera_ID  
+- Violation_Date  
+- Num_Violations  
 
 # SpeedViolations
-Camera_ID  
-Violation_Date  
-Num_Violations  
+- Camera_ID  
+- Violation_Date  
+- Num_Violations  
   
 # Comment
 The program provides 9 types of command  
